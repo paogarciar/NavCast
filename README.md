@@ -1,4 +1,4 @@
-# Data Stormer — 500 hPa Geopotential Height Prediction
+# NavCast — 500 hPa Geopotential Height Prediction
 
 A web application that takes a 12-hour NAVGEM forecast (GRIB file) and uses a
 machine-learning regression model to predict the 0-hour 500 hPa analysis.
