@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+.env
+venv/
+# generated at runtime
+**/static/*.grib*
+**/static/prediction_output.*
